@@ -26,3 +26,4 @@ More instructions:
 7. For deploying on Netlify add netlify.toml and in config.toml give baseURL to Netlify domain.
 8. Store resources in the ```/static/assets``` directory and refer it by ```/assets/File_Name```.
 9. To deploy on Netlify/Vercel change the baseURL of config.toml to Netlify domain.
+10. Button to show disqus comments: https://discourse.gohugo.io/t/button-to-show-disqus-comments/17418/4
