@@ -27,7 +27,7 @@ https://github.com/adityatelange/hugo-PaperMod/compare/master...SamirPaulb:hugo-
 8. Progressive Web App: https://ruddra.com/hugo-implement-pwa/  and  https://discourse.gohugo.io/t/simple-implementation-of-progressive-web-apps-pwa-on-hugo-website/39952
 9. Remove Powered by Hugo on footer
 10. Add p:domain_verify and norton-safeweb-site-verification on ```layouts/partials/head.html```
-11. <link rel="sitemap" type="application/xml" title="Sitemap" href="/sitemap.xml"> on ```layouts/partials/head.html```
+11. Refer sitemaps link, rss feed link and  manifest.json on ```layouts/partials/head.html```
 
 ---
 
