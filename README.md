@@ -15,6 +15,21 @@ Steps:
 6. Update theme: Change [SamirPaulb/hugo-PaperMod](https://github.com/SamirPaul1/hugo-PaperMod) -> delete ```themes/PaperMod``` directory -> run ```git clone https://github.com/SamirPaulb/hugo-PaperMod themes/PaperMod --depth=1```
 
 ---
+### TODO:
+https://github.com/adityatelange/hugo-PaperMod/compare/master...SamirPaulb:hugo-PaperMod:master
+1. Image zoom in effect
+2. Hugo watermark on images
+3. Button to show disqus comments
+4. Decrease the size of H1, H2, H3 tags in blog posts ```/assets/css/common/post-single.css```
+5. About in homepage and 5 paginations.
+6. Open external links in new tab
+7. Code block colour ```assets/css/extended/dracula.css```
+8. Progressive Web App: https://ruddra.com/hugo-implement-pwa/  and  https://discourse.gohugo.io/t/simple-implementation-of-progressive-web-apps-pwa-on-hugo-website/39952
+9. Remove Powered by Hugo on footer
+10. Add p:domain_verify and norton-safeweb-site-verification on ```layouts/partials/head.html```
+11. <link rel="sitemap" type="application/xml" title="Sitemap" href="/sitemap.xml"> on ```layouts/partials/head.html```
+
+---
 
 More instructions:
 1. https://github.com/SamirPaulb/hugo-PaperMod
