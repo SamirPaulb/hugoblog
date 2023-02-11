@@ -63,7 +63,7 @@ params:
     ShowToc: true
     TocOpen: false
     hidemeta: false
-    comments: true
+    comments: false
     images: ["https://samirpaulb.github.io/assets/blog-featured-image-samirpaul-in-blog.webp"]
 
     profileMode:
