@@ -28,6 +28,7 @@ https://github.com/adityatelange/hugo-PaperMod/compare/master...SamirPaulb:hugo-
 9. Remove Powered by Hugo on footer
 10. Add p:domain_verify and norton-safeweb-site-verification on ```layouts/partials/head.html```
 11. Refer sitemaps link, rss feed link and  manifest.json on ```layouts/partials/head.html```
+12. Change Links colour https://www.w3schools.com/html/html_links_colors.asp  ```/assets/css/common/post-single.css```
 
 ---
 
