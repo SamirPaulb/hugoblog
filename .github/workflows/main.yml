@@ -22,12 +22,3 @@ jobs:
           npm install
           npm run build          
 
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          personal_token: ${{ secrets.TOKEN }}
-          external_repository: SamirPaul1/blog
-          publish_dir: ./public
-          user_name: SamirPaul1
-          user_email: samir.paul.personal@gmail.com>
-          publish_branch: master
