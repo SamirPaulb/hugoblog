@@ -43,4 +43,4 @@ More instructions:
 8. Store resources in the ```/static/assets``` directory and refer it by ```/assets/File_Name```.
 9. To deploy on Netlify/Vercel change the baseURL of config.toml to Netlify domain.
 10. Button to show disqus comments: https://discourse.gohugo.io/t/button-to-show-disqus-comments/17418/4
-11. Progressive Web App: https://ruddra.com/hugo-implement-pwa/  and  https://discourse.gohugo.io/t/simple-implementation-of-progressive-web-apps-pwa-on-hugo-website/39952
+11. Progressive Web App: **https://blog.jeremylikness.com/blog/implement-progressive-web-app-hugo/**   and  https://ruddra.com/hugo-implement-pwa/  and  https://discourse.gohugo.io/t/simple-implementation-of-progressive-web-apps-pwa-on-hugo-website/39952 
