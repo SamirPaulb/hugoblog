@@ -25,8 +25,9 @@
   ],
   "theme_color": "#000000",
   "background_color": "#ffffff",
+  "display_override": ["fullscreen", "minimal-ui"],
   "display": "standalone",
-  "start_url": "/",
+  "start_url": "/index.html",
   "scope": "/",
   "orientation": "portrait"
 }
